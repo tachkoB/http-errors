@@ -1,0 +1,21 @@
+{
+  "name": "dci-class",
+  "version": "1.0.0",
+  "description": "Express server - http error handling",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "http-errors": "^2.0.0",
+    "mongodb": "^4.4.1",
+    "mongoose": "^6.2.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
